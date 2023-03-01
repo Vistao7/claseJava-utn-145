@@ -7,6 +7,12 @@ si este archivo esta en el repositorio remoto significa que se ha hecho exitosam
 -----
 este texto es para el punto 5, no se ve localmente ya que no esta sincronizado el repositorio local con el remoto, para hacer esto tengo que realizar un git pull
 
+<<<<<<< HEAD
 
 -----
 este texto es otra modificacion para generar un conflicto - punto 7
+=======
+----
+este texto es para el punto 7, se generara un conflicto en los archivos que ha de solucionarse
+>>>>>>> 4aff5fb5bd8bdda6460a17c3ddf790e8ed650f48
+
