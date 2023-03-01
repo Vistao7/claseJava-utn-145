@@ -1,0 +1,5 @@
+este archivo es para paso 3 de la guia de ejercicios de la clase 2
+
+este archivo no aparece en el repositorio remoto porque aun no lo he sincronizado con el repositorio local, para lograr esto tengo que realizar un git add, git commit y git push
+
+si este archivo esta en el repositorio remoto significa que se ha hecho exitosamente
