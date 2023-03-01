@@ -16,3 +16,5 @@ este texto es otra modificacion para generar un conflicto - punto 7
 este texto es para el punto 7, se generara un conflicto en los archivos que ha de solucionarse
 >>>>>>> 4aff5fb5bd8bdda6460a17c3ddf790e8ed650f48
 
+8) al intentar realizar un push git se dio cuenta de las dos modificaciones y genero un conflicto a resolver, para proseguir se debe o resolver el conflicto modificando los archivos locales y generando otro push
+
