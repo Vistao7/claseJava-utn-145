@@ -6,3 +6,6 @@ si este archivo esta en el repositorio remoto significa que se ha hecho exitosam
 
 -----
 este texto es para el punto 5, no se ve localmente ya que no esta sincronizado el repositorio local con el remoto, para hacer esto tengo que realizar un git pull
+
+----
+este texto es para el punto 7, se generara un conflicto en los archivos que ha de solucionarse
