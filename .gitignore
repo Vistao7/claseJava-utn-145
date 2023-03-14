@@ -12,3 +12,5 @@ miPrimerProyecto/.project
 miPrimerProyecto/.classpath
 miPrimerProyecto/bin/miPrimerProyecto/Clase3_1c.class
 miPrimerProyecto/bin/miPrimerProyecto/Clase3_2.class
+miPrimerProyecto/src/miPrimerProyecto/nota.txt
+*.class
